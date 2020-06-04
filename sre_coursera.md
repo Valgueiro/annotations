@@ -48,3 +48,6 @@ Developers can self-regulate and manage risk better with error budgets, it helps
 There is a good techniques that can be applied when there are no more error budget but the dev team still need to release a new feature. We can give a set of tokens to senior developers that can be used to roll out something even when the SLO is violated. So, only a critical and very high priority bug needs to be fixed is that it wil be able to go to prod when there is no error budget.
 
 Also, error budget alerts are very good to maintain everyone knowing who the system is performing.
+
+
+# WIP write about Setting targets for reliability
